@@ -15,19 +15,19 @@ The analysis followed a standard data science pipeline:
 
 #### **1. Distribution of Review Ratings**
 The majority of reviews were positive, with a large spike at a specific high rating, indicating a high level of customer satisfaction.
-![Distribution of Review Ratings](<https://imgur.com/XtSO3Ya>)
+![Distribution of Review Ratings](<https://i.imgur.com/XtSO3Ya.png>)
 
 ---
 
 #### **2. Average Rating by Trip Type**
 An analysis of average ratings by trip type revealed interesting patterns in how different customer segments rate their experience.
-![Average Rating by Trip Type](<https://imgur.com/ciEll8A>)
+![Average Rating by Trip Type](<https://i.imgur.com/ciEll8A.png>)
 
 ---
 
 #### **3. Impact of Service Quality on Ratings**
 A boxplot analysis shows the relationship between service quality and customer rating, highlighting that higher ratings are strongly associated with good service.
-![Impact of Service Quality on Ratings](<https://imgur.com/P0sKNm6>)
+![Impact of Service Quality on Ratings](<https://i.imgur.com/P0sKNm6.png>)
 
 ---
 
@@ -39,7 +39,7 @@ This plot shows the trend of average ratings over time, revealing changes in cus
 
 #### **5. Sentiment Distribution of Reviews**
 A chart showing the distribution of positive, negative, and neutral sentiments across the dataset, based on VADER sentiment analysis.
-![Sentiment Distribution of Reviews](<https://imgur.com/NQCYoNq>)
+![Sentiment Distribution of Reviews](<https://i.imgur.com/NQCYoNq.png>)
 
 ---
 
@@ -47,10 +47,10 @@ A chart showing the distribution of positive, negative, and neutral sentiments a
 Word clouds were generated to highlight the most frequently used words.
 
 **Positive Reviews**
-![WordCloud of Positive Reviews](<https://imgur.com/Fd78CE8>)
+![WordCloud of Positive Reviews](<https://i.imgur.com/Fd78CE8.png>)
 
 **Negative Reviews**
-![WordCloud of Negative Reviews](<https://imgur.com/UEDwr6y>)
+![WordCloud of Negative Reviews](<https://i.imgur.com/UEDwr6y.png>)
 
 ---
 
