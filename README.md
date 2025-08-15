@@ -15,21 +15,42 @@ The analysis followed a standard data science pipeline:
 
 #### **1. Distribution of Review Ratings**
 The majority of reviews were positive, with a large spike at a specific high rating, indicating a high level of customer satisfaction.
+![Distribution of Review Ratings](<https://imgur.com/XtSO3Ya>)
 
-![Distribution of Review Ratings](https://i.imgur.com/your-image-url-here.png)
-
-_Note: The `Hotel_Reviews.csv` data file is over 100 MB and is not included in this repository. It is stored using Git LFS._
+---
 
 #### **2. Average Rating by Trip Type**
-An analysis of average ratings by trip type (e.g., business vs. vacation) revealed interesting patterns in how different customer segments rate their experience.
+An analysis of average ratings by trip type revealed interesting patterns in how different customer segments rate their experience.
+![Average Rating by Trip Type](<https://imgur.com/ciEll8A>)
 
-#### **3. Word Clouds of Positive and Negative Reviews**
-Word clouds were generated for positive and negative reviews to highlight the most frequently used words.
+---
 
-- **Positive Words**:
-    * Words like "clean," "friendly staff," "excellent," and "service" were frequently used, suggesting these are key drivers of positive feedback.
-- **Negative Words**:
-    * Words like "bad," "room," and "review provided" were prominent in negative reviews, pointing to potential issues with rooms and a general lack of detailed feedback in many low-rated reviews.
+#### **3. Impact of Service Quality on Ratings**
+A boxplot analysis shows the relationship between service quality and customer rating, highlighting that higher ratings are strongly associated with good service.
+![Impact of Service Quality on Ratings](<https://imgur.com/P0sKNm6>)
+
+---
+
+#### **4. Trends in Ratings Over Time**
+This plot shows the trend of average ratings over time, revealing changes in customer satisfaction across different months.
+![Trend of Average Ratings Over Time](<https://imgur.com/D3lzdqa>)
+
+---
+
+#### **5. Sentiment Distribution of Reviews**
+A chart showing the distribution of positive, negative, and neutral sentiments across the dataset, based on VADER sentiment analysis.
+![Sentiment Distribution of Reviews](<https://imgur.com/NQCYoNq>)
+
+---
+
+#### **6. Word Clouds of Positive and Negative Reviews**
+Word clouds were generated to highlight the most frequently used words.
+
+**Positive Reviews**
+![WordCloud of Positive Reviews](<https://imgur.com/Fd78CE8>)
+
+**Negative Reviews**
+![WordCloud of Negative Reviews](<https://imgur.com/UEDwr6y>)
 
 ---
 
