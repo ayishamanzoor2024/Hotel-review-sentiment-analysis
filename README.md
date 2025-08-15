@@ -33,7 +33,7 @@ A boxplot analysis shows the relationship between service quality and customer r
 
 #### **4. Trends in Ratings Over Time**
 This plot shows the trend of average ratings over time, revealing changes in customer satisfaction across different months.
-![Trend of Average Ratings Over Time](<https://imgur.com/D3lzdqa>)
+![Trend of Average Ratings Over Time](<https://i.imgur.com/D3lzdqa.png>)
 
 ---
 
